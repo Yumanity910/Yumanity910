@@ -16,9 +16,9 @@
 
 # Tech Stack
 
-![c++](https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png)
-![c#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
-![svk](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXw1e_BUF94tqvmJWuXqHzbCG-nP0ONdK4rA&s)
+![c++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![c#](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=logoColor=6296CC)
+![svk](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ---
 
