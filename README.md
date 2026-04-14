@@ -16,7 +16,8 @@
 
 # Tech Stack
 
-![c++](https://learn.microsoft.com/en-us/media/logos/logo_Cplusplus.svg)
+![c++](https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png)
+![c#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
 
 ---
 
