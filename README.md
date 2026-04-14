@@ -17,7 +17,7 @@
 # Tech Stack
 
 ![c++](https://www.vikingsoftware.com/wp-content/uploads/2024/02/C-2.png)
-![c#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
+![c#](https://github.com/Yumanity910/Yumanity910/blob/master/assets/c%23.png)
 
 ---
 
