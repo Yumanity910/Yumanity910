@@ -2,7 +2,7 @@
 
 <div align="center">
 
- **Hi, I am Alexander and I Student of the Polar State University** :snowman:
+ ### **Hi, I am Alexander and I Student of the Polar State University** :snowman:
 
 </p>
 
