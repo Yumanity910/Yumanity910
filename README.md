@@ -10,8 +10,7 @@
 
 # About me
 
-> A budding developer who knows how to grind code and build complex systems.
-My journey into the world of IT began in high school, thanks to my computer science teacher. He showed me that programming isn't just boring numbers, but the true magic of creation.
+> My journey into the world of IT began in high school, thanks to my computer science teacher. He showed me that programming isn't just boring numbers, but real magic.
 
 What inspires me:
 
@@ -19,8 +18,8 @@ What inspires me:
     + Dota and CS taught me how to work in a team and make quick decisions in stressful situations.
     + BDO and Stalcraft X has developed in me a steely patience and the ability to work long and hard towards a goal (an ideal skill for long-term debugging!).
     + And Minecraft became my first sandbox, where I realized the importance of architecture and logical connections.
-+ Atmospheric reading: I love deep dives into books. The Metro series is my favorite. It taught me that even in the darkest tunnel (or the most convoluted legacy code), you can always find a way out if you keep your cool.
-+ Superheroes: My idol is Spider-Man. I bring his resourcefulness and motto, "With great power comes great responsibility," to my development: every project I create must not only be functional, but also reliable.
++ Engaging reading: I love to dive headfirst into books. The Metro series is my favorite. It taught me that even in the darkest tunnel, you can always find a way out if you stay calm.
++ Superheroes: My idol is Spider-Man. I incorporate his resourcefulness and the motto "With great power comes great responsibility" into my work: every project I design must be not only functional but also reliable.
 
 ---
 
